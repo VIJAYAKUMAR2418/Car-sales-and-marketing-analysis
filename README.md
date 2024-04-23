@@ -27,6 +27,8 @@ The dataset includes information on 21 different car-making companies and 80 dif
 Gasoline is the highest unit sold fuel type, surpassing electric and hybrid.
 SUV and Sedan are the highest sold body types compared to others.
 
+# SQL Code 
+
 -- Identify null values --
 
 SELECT *
